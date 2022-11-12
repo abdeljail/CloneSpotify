@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import MainbarComponent from './components/sidebar/MainbarComponet';
 
 function App() {
   return (
     <>
-      <h2>hello zamel dyal abdajalil</h2>
+      <MainbarComponent/>
     </>
   );
 }
